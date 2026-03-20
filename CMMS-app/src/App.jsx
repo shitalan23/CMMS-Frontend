@@ -4,6 +4,7 @@ import HomePage from './pages/HomePage';
 import FirstPage from './pages/FirstPage';
 import DailyMenu from './pages/DailyMenu';
 import ComplaintPage from "./pages/ComplaintPage";
+import RebatePage from "./pages/RebatePage";
 
 
 function App() {
